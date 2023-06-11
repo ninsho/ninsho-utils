@@ -1,6 +1,6 @@
 {
   "name": "ninsho-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A general-purpose package used on ninsho.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -22,12 +22,12 @@
     "dist"
   ],
   "license": "MIT",
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/ninsho/ninsho-utils/issues"
   },
   "homepage": "https://github.com/ninsho/ninsho-utils/",
   "dependencies": {
-    "ninsho-base": "^0.0.0"
+    "ninsho-base": "^0.0.6"
   },
   "devDependencies": {
     "@types/jest": "^29.5.1",
